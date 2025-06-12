@@ -1,3 +1,26 @@
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
+
+<h1 align="center"><b>IE104.P11 - Internet và Công nghệ Web</b></h1>
+
+## Nhóm thực hiện:
+| **STT** | **MSSV** | **Họ và tên**       | **Chức vụ** | **Email**              |
+| ------- | -------- | ------------------- | ----------- | ---------------------- |
+| 1       | 22521172 | Võ Nhất Phương      | Nhóm trưởng | 22521172@gm.uit.edu.vn |
+| 2       | 22521641 | Nguyễn Đăng Hương Uyên | Thành viên  | 22521641@gm.uit.edu.vn |
+| 3       | 22520298 | Lê Nguyễn Thùy Dương | Thành viên  | 22520298@gm.uit.edu.vn |
+| 4       | 22520861 | Hoàng Gia Minh    | Thành viên  | 22520861@gm.uit.edu.vn |
+| 5       | 22521121 | Lê Thiên Phúc    | Thành viên  | 22521121@gm.uit.edu.vn |
+
+## Giới thiệu môn học:
+* **Tên môn học:** Internet và Công nghệ Web
+* **Mã môn học:** IE104.P11
+* **Năm học:** HK1 (2024 - 2025)
+* **Giảng viên:** ThS. Võ Tấn Khoa
+
 # **:memo:MELON - Website Xem Phim Trực Tuyến**
 
 **MELON** là website xem phim trực tuyến hiện đại, mang đến trải nghiệm giải trí tuyệt vời với giao diện thân thiện và tính năng thông minh. Khám phá kho phim phong phú và dễ dàng lưu trữ các bộ phim yêu thích.
